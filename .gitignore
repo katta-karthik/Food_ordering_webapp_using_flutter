@@ -1,0 +1,27 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+flutter_export_environment.sh
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated
+coverage/
+
+# Secrets (put keys in env vars, not committed)
+.env
+.env.*
+
+# Web build artifacts
+build/web/

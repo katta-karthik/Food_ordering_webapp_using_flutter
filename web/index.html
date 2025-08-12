@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href="/" />
+    <meta charset="UTF-8" />
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+    <meta name="description" content="QuickBite Lite Flutter Web" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>QuickBite Lite</title>
+    <link rel="manifest" href="manifest.json" />
+    <script>
+      // Show a basic loading message until Flutter boots.
+      window.addEventListener('load', function () {
+        var loader = document.getElementById('flutter-loader');
+        if (loader) loader.textContent = 'Loading QuickBite Lite...';
+      });
+    </script>
+    <style>
+      html, body { height:100%; }
+      body { margin:0; font-family: system-ui, Arial, sans-serif; background:#fafafa; }
+      #flutter-loader { display:flex; align-items:center; justify-content:center; height:100vh; color:#ff8800; font-size:20px; }
+    </style>
+  </head>
+  <body>
+    <div id="flutter-loader">Starting...</div>
+    <script src="flutter_bootstrap.js" async></script>
+  </body>
+</html>

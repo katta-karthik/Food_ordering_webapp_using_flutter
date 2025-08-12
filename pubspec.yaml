@@ -1,0 +1,27 @@
+name: quickbite_lite
+description: Simple student-level food ordering demo (QuickBite Lite)
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.3.2
+  cached_network_image: ^3.3.1
+
+  # Helpful for showing progress indicators (already part of material, so optional)
+  # cupertino_icons is a common example dependency; keeping minimal.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # No assets yet. If you add local images, uncomment below and list paths.
+  # assets:
+  #   - assets/images/

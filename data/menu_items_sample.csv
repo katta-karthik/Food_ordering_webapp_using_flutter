@@ -1,0 +1,11 @@
+id,name,price,image_url,category
+1,Margherita Pizza,199,https://images.unsplash.com/photo-1601924582971-b0c65c1d2d1f?auto=format&fit=crop&w=400&q=60,Veg
+2,Paneer Tikka Roll,149,https://images.unsplash.com/photo-1617704716344-39a7e1c0c76f?auto=format&fit=crop&w=400&q=60,Veg
+3,Chicken Burger,159,https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=400&q=60,Non-Veg
+4,Grilled Chicken Wings,229,https://images.unsplash.com/photo-1608032077018-b63f7e3d87b6?auto=format&fit=crop&w=400&q=60,Non-Veg
+5,French Fries,89,https://images.unsplash.com/photo-1550450005-4d4aa1c6015d?auto=format&fit=crop&w=400&q=60,Snacks
+6,Cheese Garlic Bread,119,https://images.unsplash.com/photo-1604908177777-b66b7a538cd4?auto=format&fit=crop&w=400&q=60,Snacks
+7,Cola,49,https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&w=400&q=60,Drinks
+8,Lemon Iced Tea,69,https://images.unsplash.com/photo-1527161153339-33b9e1e2e277?auto=format&fit=crop&w=400&q=60,Drinks
+9,Mango Smoothie,129,https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=400&q=60,Drinks
+10,Chocolate Brownie,99,https://images.unsplash.com/photo-1599785209707-28c6d6406408?auto=format&fit=crop&w=400&q=60,Snacks
