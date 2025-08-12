@@ -41,21 +41,3 @@ Minimal learning project: a Flutter + Supabase food menu with search, filters, s
 flutter pub get
 flutter run -d chrome   # or any connected device
 ```
-
-## 🌐 Build for Web Deployment
-```bash
-flutter build web
-```
-Upload the contents of `build/web` to Netlify / Vercel / GitHub Pages.
-
-## 🧩 Next Ideas (Not Implemented Yet)
-* Persist favorites & theme (SharedPreferences)
-* User auth (Supabase email / magic link)
-* Better error/retry UI & loading skeletons
-* Deploy CI workflow (GitHub Actions)
-
-## 📄 License
-Educational / personal use. Add an explicit LICENSE file before publishing widely.
-
----
-Small, clear, and intentionally simple for portfolio learning.
